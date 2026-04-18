@@ -1,0 +1,271 @@
+{
+  "as_of": "2026-04-14",
+  "updated_at_utc": "2026-04-15T12:32:22Z",
+  "competition": {
+    "id": "284",
+    "name": "IPL 2026",
+    "season": "2026"
+  },
+  "points_table": [
+    {
+      "rank": 1,
+      "team": "Rajasthan Royals",
+      "short_name": "RR",
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "points": 8,
+      "nrr": "+0.889"
+    },
+    {
+      "rank": 2,
+      "team": "Punjab Kings",
+      "short_name": "PBKS",
+      "played": 4,
+      "won": 3,
+      "lost": 0,
+      "points": 7,
+      "nrr": "+0.720"
+    },
+    {
+      "rank": 3,
+      "team": "Royal Challengers Bengaluru",
+      "short_name": "RCB",
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "points": 6,
+      "nrr": "+1.148"
+    },
+    {
+      "rank": 4,
+      "team": "Sunrisers Hyderabad",
+      "short_name": "SRH",
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "points": 4,
+      "nrr": "+0.576"
+    },
+    {
+      "rank": 5,
+      "team": "Delhi Capitals",
+      "short_name": "DC",
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "points": 4,
+      "nrr": "+0.322"
+    },
+    {
+      "rank": 6,
+      "team": "Gujarat Titans",
+      "short_name": "GT",
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "points": 4,
+      "nrr": "-0.029"
+    },
+    {
+      "rank": 7,
+      "team": "Lucknow Super Giants",
+      "short_name": "LSG",
+      "played": 4,
+      "won": 2,
+      "lost": 2,
+      "points": 4,
+      "nrr": "-0.427"
+    },
+    {
+      "rank": 8,
+      "team": "Chennai Super Kings",
+      "short_name": "CSK",
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "points": 4,
+      "nrr": "-0.846"
+    },
+    {
+      "rank": 9,
+      "team": "Mumbai Indians",
+      "short_name": "MI",
+      "played": 4,
+      "won": 1,
+      "lost": 3,
+      "points": 2,
+      "nrr": "-0.772"
+    },
+    {
+      "rank": 10,
+      "team": "Kolkata Knight Riders",
+      "short_name": "KKR",
+      "played": 5,
+      "won": 0,
+      "lost": 4,
+      "points": 1,
+      "nrr": "-1.383"
+    }
+  ],
+  "orange_cap": [
+    {
+      "rank": 1,
+      "name": "Heinrich Klaasen",
+      "team": "SRH",
+      "runs": 224,
+      "matches": 5
+    },
+    {
+      "rank": 2,
+      "name": "Ishan Kishan",
+      "team": "SRH",
+      "runs": 213,
+      "matches": 5
+    },
+    {
+      "rank": 3,
+      "name": "Vaibhav Sooryavanshi",
+      "team": "RR",
+      "runs": 200,
+      "matches": 5
+    },
+    {
+      "rank": 4,
+      "name": "Rajat Patidar",
+      "team": "RCB",
+      "runs": 195,
+      "matches": 4
+    },
+    {
+      "rank": 5,
+      "name": "Sanju Samson",
+      "team": "CSK",
+      "runs": 185,
+      "matches": 5
+    },
+    {
+      "rank": 6,
+      "name": "Yashasvi Jaiswal",
+      "team": "RR",
+      "runs": 184,
+      "matches": 5
+    },
+    {
+      "rank": 7,
+      "name": "Angkrish Raghuvanshi",
+      "team": "KKR",
+      "runs": 182,
+      "matches": 5
+    },
+    {
+      "rank": 8,
+      "name": "Virat Kohli",
+      "team": "RCB",
+      "runs": 179,
+      "matches": 4
+    },
+    {
+      "rank": 9,
+      "name": "Dhruv Jurel",
+      "team": "RR",
+      "runs": 176,
+      "matches": 5
+    },
+    {
+      "rank": 10,
+      "name": "Jos Buttler",
+      "team": "GT",
+      "runs": 176,
+      "matches": 4
+    },
+    {
+      "rank": 11,
+      "name": "Ayush Mhatre",
+      "team": "CSK",
+      "runs": 171,
+      "matches": 5
+    },
+    {
+      "rank": 12,
+      "name": "Sameer Rizvi",
+      "team": "DC",
+      "runs": 166,
+      "matches": 4
+    },
+    {
+      "rank": 13,
+      "name": "Shubman Gill",
+      "team": "GT",
+      "runs": 165,
+      "matches": 3
+    },
+    {
+      "rank": 14,
+      "name": "Ajinkya Rahane",
+      "team": "KKR",
+      "runs": 152,
+      "matches": 5
+    },
+    {
+      "rank": 15,
+      "name": "Shreyas Iyer",
+      "team": "PBKS",
+      "runs": 137,
+      "matches": 4
+    },
+    {
+      "rank": 16,
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "runs": 137,
+      "matches": 4
+    },
+    {
+      "rank": 17,
+      "name": "Ryan Rickelton",
+      "team": "MI",
+      "runs": 135,
+      "matches": 4
+    },
+    {
+      "rank": 18,
+      "name": "Tim David",
+      "team": "RCB",
+      "runs": 133,
+      "matches": 4
+    },
+    {
+      "rank": 19,
+      "name": "Phil Salt",
+      "team": "RCB",
+      "runs": 132,
+      "matches": 4
+    },
+    {
+      "rank": 20,
+      "name": "Prabhsimran Singh",
+      "team": "PBKS",
+      "runs": 131,
+      "matches": 4
+    }
+  ],
+  "latest_result": {
+    "date": "2026-04-14",
+    "match_name": "Chennai Super Kings vs Kolkata Knight Riders",
+    "team_1": "Chennai Super Kings",
+    "team_2": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium",
+    "city": "Chennai",
+    "result": "Chennai Super Kings Won by 32  Runs",
+    "toss": "Kolkata Knight Riders Won The Toss And Elected To Field"
+  },
+  "source_urls": {
+    "official_points_table": "https://www.iplt20.com/points-table/men/2026",
+    "official_results": "https://www.iplt20.com/matches/results",
+    "official_stats": "https://www.iplt20.com/stats/2026",
+    "feed_points_table": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/284-groupstandings.js",
+    "feed_orange_cap": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/284-toprunsscorers.js",
+    "feed_match_schedule": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/284-matchschedule.js"
+  }
+}

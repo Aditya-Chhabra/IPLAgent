@@ -1,0 +1,397 @@
+[
+  {
+    "id": "ruturaj_gaikwad",
+    "name": "Ruturaj Gaikwad",
+    "aliases": ["ruturaj", "gaikwad"],
+    "team_id": "csk",
+    "role": "Batter"
+  },
+  {
+    "id": "ms_dhoni",
+    "name": "MS Dhoni",
+    "aliases": ["dhoni", "msd"],
+    "team_id": "csk",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "shivam_dube",
+    "name": "Shivam Dube",
+    "aliases": ["dube"],
+    "team_id": "csk",
+    "role": "All-rounder"
+  },
+  {
+    "id": "noor_ahmad",
+    "name": "Noor Ahmad",
+    "aliases": ["noor"],
+    "team_id": "csk",
+    "role": "Bowler"
+  },
+  {
+    "id": "anshul_kamboj",
+    "name": "Anshul Kamboj",
+    "aliases": ["anshul kamboj", "anshul"],
+    "team_id": "csk",
+    "role": "Bowler",
+    "season_2026": {
+      "wickets": 10,
+      "matches": 5,
+      "overs": "18.4"
+    }
+  },
+  {
+    "id": "axar_patel",
+    "name": "Axar Patel",
+    "aliases": ["axar"],
+    "team_id": "dc",
+    "role": "All-rounder"
+  },
+  {
+    "id": "kl_rahul",
+    "name": "KL Rahul",
+    "aliases": ["kl rahul", "rahul"],
+    "team_id": "dc",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "tristan_stubbs",
+    "name": "Tristan Stubbs",
+    "aliases": ["stubbs"],
+    "team_id": "dc",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "mitchell_starc",
+    "name": "Mitchell Starc",
+    "aliases": ["starc"],
+    "team_id": "dc",
+    "role": "Bowler"
+  },
+  {
+    "id": "kuldeep_yadav",
+    "name": "Kuldeep Yadav",
+    "aliases": ["kuldeep"],
+    "team_id": "dc",
+    "role": "Bowler"
+  },
+  {
+    "id": "shubman_gill",
+    "name": "Shubman Gill",
+    "aliases": ["shubman", "gill"],
+    "team_id": "gt",
+    "role": "Batter"
+  },
+  {
+    "id": "jos_buttler",
+    "name": "Jos Buttler",
+    "aliases": ["buttler", "jos"],
+    "team_id": "gt",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "sai_sudharsan",
+    "name": "Sai Sudharsan",
+    "aliases": ["sai", "sudharsan", "sai sudharsan"],
+    "team_id": "gt",
+    "role": "Batter"
+  },
+  {
+    "id": "rashid_khan",
+    "name": "Rashid Khan",
+    "aliases": ["rashid"],
+    "team_id": "gt",
+    "role": "Bowler"
+  },
+  {
+    "id": "prasidh_krishna",
+    "name": "Prasidh Krishna",
+    "aliases": ["prasidh"],
+    "team_id": "gt",
+    "role": "Bowler",
+    "season_2026": {
+      "wickets": 10,
+      "matches": 4,
+      "overs": "16.0"
+    }
+  },
+  {
+    "id": "ajinkya_rahane",
+    "name": "Ajinkya Rahane",
+    "aliases": ["rahane", "ajinkya"],
+    "team_id": "kkr",
+    "role": "Batter"
+  },
+  {
+    "id": "rinku_singh",
+    "name": "Rinku Singh",
+    "aliases": ["rinku"],
+    "team_id": "kkr",
+    "role": "Batter"
+  },
+  {
+    "id": "sunil_narine",
+    "name": "Sunil Narine",
+    "aliases": ["narine"],
+    "team_id": "kkr",
+    "role": "All-rounder"
+  },
+  {
+    "id": "cameron_green",
+    "name": "Cameron Green",
+    "aliases": ["green", "cameron green"],
+    "team_id": "kkr",
+    "role": "All-rounder"
+  },
+  {
+    "id": "varun_chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "aliases": ["varun", "chakaravarthy"],
+    "team_id": "kkr",
+    "role": "Bowler"
+  },
+  {
+    "id": "rishabh_pant",
+    "name": "Rishabh Pant",
+    "aliases": ["pant"],
+    "team_id": "lsg",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "nicholas_pooran",
+    "name": "Nicholas Pooran",
+    "aliases": ["pooran"],
+    "team_id": "lsg",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "mitchell_marsh",
+    "name": "Mitchell Marsh",
+    "aliases": ["marsh"],
+    "team_id": "lsg",
+    "role": "All-rounder"
+  },
+  {
+    "id": "mayank_yadav",
+    "name": "Mayank Yadav",
+    "aliases": ["mayank"],
+    "team_id": "lsg",
+    "role": "Bowler"
+  },
+  {
+    "id": "prince_yadav",
+    "name": "Prince Yadav",
+    "aliases": ["prince"],
+    "team_id": "lsg",
+    "role": "Bowler",
+    "season_2026": {
+      "wickets": 6,
+      "matches": 4,
+      "overs": "15.0"
+    }
+  },
+  {
+    "id": "rohit_sharma",
+    "name": "Rohit Sharma",
+    "aliases": ["rohit"],
+    "team_id": "mi",
+    "role": "Batter"
+  },
+  {
+    "id": "surya_kumar_yadav",
+    "name": "Surya Kumar Yadav",
+    "aliases": ["surya", "sky", "suryakumar yadav"],
+    "team_id": "mi",
+    "role": "Batter"
+  },
+  {
+    "id": "hardik_pandya",
+    "name": "Hardik Pandya",
+    "aliases": ["hardik"],
+    "team_id": "mi",
+    "role": "All-rounder"
+  },
+  {
+    "id": "jasprit_bumrah",
+    "name": "Jasprit Bumrah",
+    "aliases": ["bumrah"],
+    "team_id": "mi",
+    "role": "Bowler"
+  },
+  {
+    "id": "tilak_varma",
+    "name": "Tilak Varma",
+    "aliases": ["tilak"],
+    "team_id": "mi",
+    "role": "Batter"
+  },
+  {
+    "id": "shreyas_iyer",
+    "name": "Shreyas Iyer",
+    "aliases": ["shreyas"],
+    "team_id": "pbks",
+    "role": "Batter"
+  },
+  {
+    "id": "prabhsimran_singh",
+    "name": "Prabhsimran Singh",
+    "aliases": ["prabhsimran"],
+    "team_id": "pbks",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "marcus_stoinis",
+    "name": "Marcus Stoinis",
+    "aliases": ["stoinis"],
+    "team_id": "pbks",
+    "role": "All-rounder"
+  },
+  {
+    "id": "arshdeep_singh",
+    "name": "Arshdeep Singh",
+    "aliases": ["arshdeep"],
+    "team_id": "pbks",
+    "role": "Bowler"
+  },
+  {
+    "id": "yuzvendra_chahal",
+    "name": "Yuzvendra Chahal",
+    "aliases": ["chahal"],
+    "team_id": "pbks",
+    "role": "Bowler"
+  },
+  {
+    "id": "riyan_parag",
+    "name": "Riyan Parag",
+    "aliases": ["riyan"],
+    "team_id": "rr",
+    "role": "Batter"
+  },
+  {
+    "id": "vaibhav_sooryavanshi",
+    "name": "Vaibhav Sooryavanshi",
+    "aliases": ["vaibhav", "sooryavanshi"],
+    "team_id": "rr",
+    "role": "Batter",
+    "season_2026": {
+      "runs": 200,
+      "matches": 5,
+      "average": 40.0
+    }
+  },
+  {
+    "id": "yashasvi_jaiswal",
+    "name": "Yashasvi Jaiswal",
+    "aliases": ["yashasvi", "jaiswal"],
+    "team_id": "rr",
+    "role": "Batter"
+  },
+  {
+    "id": "jofra_archer",
+    "name": "Jofra Archer",
+    "aliases": ["jofra", "archer"],
+    "team_id": "rr",
+    "role": "Bowler",
+    "season_2026": {
+      "wickets": 7,
+      "matches": 5,
+      "overs": "17.0"
+    }
+  },
+  {
+    "id": "ravi_bishnoi",
+    "name": "Ravi Bishnoi",
+    "aliases": ["bishnoi", "ravi"],
+    "team_id": "rr",
+    "role": "Bowler",
+    "season_2026": {
+      "wickets": 9,
+      "matches": 5,
+      "overs": "16.0"
+    }
+  },
+  {
+    "id": "rajat_patidar",
+    "name": "Rajat Patidar",
+    "aliases": ["rajat", "patidar"],
+    "team_id": "rcb",
+    "role": "Batter",
+    "season_2026": {
+      "runs": 195,
+      "matches": 4,
+      "average": 65.0
+    }
+  },
+  {
+    "id": "virat_kohli",
+    "name": "Virat Kohli",
+    "aliases": ["virat", "kohli"],
+    "team_id": "rcb",
+    "role": "Batter"
+  },
+  {
+    "id": "phil_salt",
+    "name": "Phil Salt",
+    "aliases": ["salt"],
+    "team_id": "rcb",
+    "role": "Wicketkeeper Batter"
+  },
+  {
+    "id": "krunal_pandya",
+    "name": "Krunal Pandya",
+    "aliases": ["krunal"],
+    "team_id": "rcb",
+    "role": "All-rounder"
+  },
+  {
+    "id": "josh_hazlewood",
+    "name": "Josh Hazlewood",
+    "aliases": ["hazlewood"],
+    "team_id": "rcb",
+    "role": "Bowler"
+  },
+  {
+    "id": "heinrich_klaasen",
+    "name": "Heinrich Klaasen",
+    "aliases": ["klaasen"],
+    "team_id": "srh",
+    "role": "Wicketkeeper Batter",
+    "season_2026": {
+      "runs": 224,
+      "matches": 5,
+      "average": 44.8
+    }
+  },
+  {
+    "id": "ishan_kishan",
+    "name": "Ishan Kishan",
+    "aliases": ["ishan"],
+    "team_id": "srh",
+    "role": "Wicketkeeper Batter",
+    "season_2026": {
+      "runs": 213,
+      "matches": 5,
+      "average": 42.6
+    }
+  },
+  {
+    "id": "travis_head",
+    "name": "Travis Head",
+    "aliases": ["head", "travis"],
+    "team_id": "srh",
+    "role": "Batter"
+  },
+  {
+    "id": "abhishek_sharma",
+    "name": "Abhishek Sharma",
+    "aliases": ["abhishek"],
+    "team_id": "srh",
+    "role": "All-rounder"
+  },
+  {
+    "id": "pat_cummins",
+    "name": "Pat Cummins",
+    "aliases": ["cummins"],
+    "team_id": "srh",
+    "role": "Bowler"
+  }
+]

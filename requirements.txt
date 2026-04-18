@@ -1,0 +1,5 @@
+streamlit>=1.44.0
+langgraph>=0.2.55
+langchain-groq>=0.2.0
+groq>=0.37.0
+python-dotenv>=1.0.1

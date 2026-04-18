@@ -1,0 +1,102 @@
+[
+  {
+    "id": "csk",
+    "name": "Chennai Super Kings",
+    "short_name": "CSK",
+    "aliases": ["chennai"],
+    "captain": "Ruturaj Gaikwad",
+    "coach": "Stephen Fleming",
+    "home_ground": "M. A. Chidambaram Stadium",
+    "featured_players": ["Ruturaj Gaikwad", "MS Dhoni", "Shivam Dube", "Noor Ahmad"]
+  },
+  {
+    "id": "dc",
+    "name": "Delhi Capitals",
+    "short_name": "DC",
+    "aliases": ["delhi"],
+    "captain": "Axar Patel",
+    "coach": "Hemang Badani",
+    "home_ground": "Arun Jaitley Stadium",
+    "featured_players": ["KL Rahul", "Axar Patel", "Tristan Stubbs", "Mitchell Starc"]
+  },
+  {
+    "id": "gt",
+    "name": "Gujarat Titans",
+    "short_name": "GT",
+    "aliases": ["gujarat"],
+    "captain": "Shubman Gill",
+    "coach": "Ashish Nehra",
+    "home_ground": "Narendra Modi Stadium",
+    "featured_players": ["Shubman Gill", "Jos Buttler", "Sai Sudharsan", "Prasidh Krishna"]
+  },
+  {
+    "id": "kkr",
+    "name": "Kolkata Knight Riders",
+    "short_name": "KKR",
+    "aliases": ["kolkata"],
+    "captain": "Ajinkya Rahane",
+    "coach": "Abhishek Nayar",
+    "home_ground": "Eden Gardens",
+    "featured_players": ["Ajinkya Rahane", "Rinku Singh", "Sunil Narine", "Varun Chakaravarthy"]
+  },
+  {
+    "id": "lsg",
+    "name": "Lucknow Super Giants",
+    "short_name": "LSG",
+    "aliases": ["lucknow"],
+    "captain": "Rishabh Pant",
+    "coach": "Justin Langer",
+    "home_ground": "BRSABV Ekana Cricket Stadium",
+    "featured_players": ["Rishabh Pant", "Nicholas Pooran", "Mitchell Marsh", "Prince Yadav"]
+  },
+  {
+    "id": "mi",
+    "name": "Mumbai Indians",
+    "short_name": "MI",
+    "aliases": ["mumbai"],
+    "captain": "Hardik Pandya",
+    "coach": "Mahela Jayawardene",
+    "home_ground": "Wankhede Stadium",
+    "featured_players": ["Rohit Sharma", "Surya Kumar Yadav", "Hardik Pandya", "Jasprit Bumrah"]
+  },
+  {
+    "id": "pbks",
+    "name": "Punjab Kings",
+    "short_name": "PBKS",
+    "aliases": ["punjab", "kings xi punjab"],
+    "captain": "Shreyas Iyer",
+    "coach": "Ricky Ponting",
+    "home_ground": "New International Cricket Stadium",
+    "featured_players": ["Shreyas Iyer", "Prabhsimran Singh", "Marcus Stoinis", "Arshdeep Singh"]
+  },
+  {
+    "id": "rr",
+    "name": "Rajasthan Royals",
+    "short_name": "RR",
+    "aliases": ["rajasthan"],
+    "captain": "Riyan Parag",
+    "coach": "Kumar Sangakkara",
+    "home_ground": "Sawai Mansingh Stadium",
+    "featured_players": ["Riyan Parag", "Vaibhav Sooryavanshi", "Yashasvi Jaiswal", "Jofra Archer"]
+  },
+  {
+    "id": "rcb",
+    "name": "Royal Challengers Bengaluru",
+    "short_name": "RCB",
+    "aliases": ["bengaluru", "bangalore"],
+    "captain": "Rajat Patidar",
+    "coach": "Andy Flower",
+    "home_ground": "M. Chinnaswamy Stadium",
+    "featured_players": ["Rajat Patidar", "Virat Kohli", "Phil Salt", "Josh Hazlewood"]
+  },
+  {
+    "id": "srh",
+    "name": "Sunrisers Hyderabad",
+    "short_name": "SRH",
+    "aliases": ["hyderabad"],
+    "captain": "Pat Cummins",
+    "coach": "Daniel Vettori",
+    "home_ground": "Rajiv Gandhi Intl. Cricket Stadium",
+    "featured_players": ["Heinrich Klaasen", "Ishan Kishan", "Travis Head", "Pat Cummins"]
+  }
+]
