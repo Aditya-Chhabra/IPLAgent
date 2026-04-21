@@ -1,4 +1,4 @@
-# IPL 2026 Agent Demo
+# IPL 2026 Agent 
 
 A small LangGraph-based demo agent for a webinar on AI agents.
 
